@@ -1392,7 +1392,7 @@ body:not(.post-template) .post-title {
 }
 .read-next-story:hover .post:before {
     color: #222;
-    background: #fff;
+    background: rgba(0,0,0,0.8);
     transition: all 0.2s ease;
 }
 
