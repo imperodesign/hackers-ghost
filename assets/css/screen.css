@@ -1448,16 +1448,16 @@ body:not(.post-template) .post-title {
 }
 
 .read-next-story.no-cover .post:before {
-    color: rgba(0,0,0,0.5);
-    border-color: rgba(0,0,0,0.2);
+    color: #FAFAFA;
+    border-color: rgba(0,0,0,1);
 }
 
 .read-next-story.no-cover h2 {
-    color: rgba(0,0,0,0.8);
+    color: #FFDD00;
 }
 
 .read-next-story.no-cover p {
-    color: rgba(0,0,0,0.5);
+    color: #FAFAFA;
 }
 
 /* if there are two posts without covers, put a border between them */
