@@ -893,6 +893,7 @@ body.nav-opened .nav {
     font-size: 6em;
     font-family: "mrrobotregular", serif;
     color: #FFDD00;
+    font-weight: normal;
 }
 
 .page-description {
