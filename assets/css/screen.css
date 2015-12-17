@@ -1440,7 +1440,7 @@ body:not(.post-template) .post-title {
 
 /* Special styles for posts with no cover images */
 .read-next-story.no-cover {
-    background: #f5f8fa;
+    background: #000;
 }
 
 .read-next-story.no-cover:before {
@@ -1448,8 +1448,8 @@ body:not(.post-template) .post-title {
 }
 
 .read-next-story.no-cover .post:before {
-    color: #FAFAFA;
-    border-color: rgba(0,0,0,1);
+    color: rgba(0,0,0,0.5);
+    border-color: rgba(0,0,0,0.2);
 }
 
 .read-next-story.no-cover h2 {
