@@ -893,8 +893,8 @@ body.nav-opened .nav {
     font-size: 5rem;
     letter-spacing: -1px;
     font-weight: 700;
-    font-family: "Open Sans", sans-serif;
-    color: #fff;
+    font-family: "mrrobotregular", sans-serif;
+    color: #ff0000;
 }
 
 .page-description {
