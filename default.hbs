@@ -20,6 +20,10 @@
 
     {{! Ghost outputs important style and meta data with this tag }}
     {{ghost_head}}
+
+    <meta name="og:image" content="{{#if @post.image}}" />
+    <meta name="twitter:image" content="{{#if @post.image}}" />
+
 </head>
 <body class="{{body_class}} nav-closed">
 
